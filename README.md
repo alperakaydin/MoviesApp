@@ -4,11 +4,9 @@ MoviesApp is a sleek and user-friendly Android application that allows users to 
 
 ## 📸 Screenshots
 
-## 📸 Screenshots
-
-| ![Home](screenshots/home.png) | ![Search](screenshots/search.png) | ![Search List](screenshots/search_list.png) | ![Details](screenshots/detail.png) | ![Cart](screenshots/cart.png) | ![Recommendations](screenshots/recommendations.png) |
-|-------------------------------|-----------------------------------|--------------------------------------------|------------------------------------|-------------------------------|-----------------------------------------|
-| **Home Screen**              | **Search Screen**                | **Search List**                            | **Movie Details**                 | **Cart**                     | **Recommendations**                    |
+| ![Home](screenshots/home.png) | ![Search](screenshots/search.png) | ![Details](screenshots/detail.png) | ![Cart](screenshots/cart.png) | ![Recommendations](screenshots/recommendations.png) |
+|-------------------------------|-----------------------------------|------------------------------------|-------------------------------|-----------------------------------------|
+| **Home Screen**              | **Search Screen**                | **Movie Details**                 | **Cart**                     | **Recommendations**                    |
 
 | ![Trailer Watch](screenshots/trailer_watch.png) | ![Login](screenshots/login.png) | ![Onboarding 1](screenshots/onboarding_1.png) | ![Onboarding 2](screenshots/onboarding_2.png) | ![Onboarding 3](screenshots/onboarding_3.png) |
 |------------------------------------------------|--------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|
