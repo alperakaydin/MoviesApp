@@ -34,7 +34,7 @@ fun AppNavHost(
 
     NavHost(
         navController = navController,
-        startDestination = if (isOnboarded) "login" else "onboarding"
+        startDestination = "onboarding"//if (isOnboarded) "login" else "onboarding"
     ) { //if (isOnboarded) "login" else "onboarding")
         composable("onboarding") {
             OnboardingScreen(onComplete = {

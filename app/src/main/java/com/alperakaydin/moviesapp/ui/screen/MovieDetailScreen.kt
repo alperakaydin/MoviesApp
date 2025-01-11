@@ -80,7 +80,7 @@ fun MovieDetailScreen(
     val trailerUrl by movieDetailViewModel.trailerUrl.observeAsState()
 
     LaunchedEffect(true) {
-        movieDetailViewModel.loadCartItems()
+        //movieDetailViewModel.loadCartItems()
         movieDetailViewModel.isFavoriteUpdate(movie)
         movieDetailViewModel.fetchUserCountForMovie(movie.name)
         movieDetailViewModel.loadTrailer(movie)
@@ -254,4 +254,4 @@ fun MovieActionButton(icon: ImageVector, label: String, onClick: () -> Unit) {
         Text(text = label, style = MaterialTheme.typography.bodySmall, color = Color.White)
     }
 }
-// AIzaSyCG97qW96AeqKqsoZ7vBb9smPWkQWOaV0I
+
