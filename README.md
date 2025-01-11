@@ -4,13 +4,13 @@ MoviesApp is a sleek and user-friendly Android application that allows users to 
 
 ## 📸 Screenshots
 
-| ![Home](screenshots/home.png) | ![Search](screenshots/search.png) | ![Details](screenshots/detail.png) | ![Cart](screenshots/cart.png) | ![Recommendations](screenshots/recommendations.png) |
-|-------------------------------|-----------------------------------|------------------------------------|-------------------------------|-----------------------------------------|
-| **Home Screen**              | **Search Screen**                | **Movie Details**                 | **Cart**                     | **Recommendations**                    |
+| ![Onboarding 1](screenshots/onboarding_1.png) | ![Onboarding 2](screenshots/onboarding_2.png) | ![Onboarding 3](screenshots/onboarding_3.png) | ![Login](screenshots/login.png) | ![Home](screenshots/home.png) |
+|----------------------------------------------|----------------------------------------------|----------------------------------------------|--------------------------------|-------------------------------|
+| **Onboarding Step 1**                        | **Onboarding Step 2**                        | **Onboarding Step 3**                        | **Login Screen**              | **Home Screen**              |
 
-| ![Trailer Watch](screenshots/trailer_watch.png) | ![Login](screenshots/login.png) | ![Onboarding 1](screenshots/onboarding_1.png) | ![Onboarding 2](screenshots/onboarding_2.png) | ![Onboarding 3](screenshots/onboarding_3.png) |
-|------------------------------------------------|--------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|
-| **Trailer Watch**                              | **Login Screen**              | **Onboarding Step 1**                        | **Onboarding Step 2**                        | **Onboarding Step 3**                        |
+| ![Search](screenshots/search.png)            | ![Recommendations](screenshots/recommendations.png) | ![Details](screenshots/detail.png) | ![Cart](screenshots/cart.png) | ![Trailer Watch](screenshots/trailer_watch.png) |
+|----------------------------------------------|----------------------------------------------------|------------------------------------|-------------------------------|----------------------------------------------|
+| **Search Screen**                            | **Recommendations**                                | **Movie Details**                 | **Cart Screen**              | **Trailer Playback Screen**                |
 
 🚀 Features
 •	Onboarding Flow: A guided introduction to the app with Lottie animations.
